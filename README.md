@@ -4,7 +4,7 @@ This project is a reacreation of the following research paper: https://arxiv.org
 
 Majority of the code was taken from their original github with a few changes done for our project: https://github.com/ThunderbornSakana/SHy
 
-##Changes
+## Changes
 
 - Changed Epoch count to 100 for shorter training
 - Added and later removed debugging statements
