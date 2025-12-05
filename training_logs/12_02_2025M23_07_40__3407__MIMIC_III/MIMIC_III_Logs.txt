@@ -1,0 +1,301 @@
+Number of parameters of this model: 2694119
+Epoch: [1/450], Training Loss: 0.026547307
+Test Epoch 1: 0.063914104 (recall@10); 0.124585242 (recall@20); 0.070098740 (ndcg@10); 0.094019995 (ndcg@20)
+Prediction: 0.022456275; Fidelity: 0.040875692; Distinctness: 5.175268173; Alpha: -0.423122406
+Epoch: [2/450], Training Loss: 0.023196764
+Test Epoch 2: 0.087259146 (recall@10); 0.178905425 (recall@20); 0.157887219 (ndcg@10); 0.187099955 (ndcg@20)
+Prediction: 0.020013398; Fidelity: 0.041148685; Distinctness: 3.688312054; Alpha: -0.508322835
+Epoch: [3/450], Training Loss: 0.021118304
+Test Epoch 3: 0.131280737 (recall@10); 0.245418377 (recall@20); 0.207377579 (ndcg@10); 0.241130040 (ndcg@20)
+Prediction: 0.018693566; Fidelity: 0.030111393; Distinctness: 4.469742775; Alpha: -0.535328865
+Epoch: [4/450], Training Loss: 0.020296797
+Test Epoch 4: 0.164033262 (recall@10); 0.258170817 (recall@20); 0.256958520 (ndcg@10); 0.269349589 (ndcg@20)
+Prediction: 0.018229093; Fidelity: 0.035959262; Distinctness: 3.167062759; Alpha: -0.538980842
+Epoch: [5/450], Training Loss: 0.019900646
+Test Epoch 5: 0.177922460 (recall@10); 0.256227318 (recall@20); 0.275660640 (ndcg@10); 0.276930258 (ndcg@20)
+Prediction: 0.017934648; Fidelity: 0.024616675; Distinctness: 5.550287247; Alpha: -0.549648583
+Epoch: [6/450], Training Loss: 0.019919261
+Test Epoch 6: 0.177582930 (recall@10); 0.261658036 (recall@20); 0.276822622 (ndcg@10); 0.280859742 (ndcg@20)
+Prediction: 0.017860252; Fidelity: 0.027994405; Distinctness: 3.770598412; Alpha: -0.543403506
+Epoch: [7/450], Training Loss: 0.019648442
+Test Epoch 7: 0.176411022 (recall@10); 0.260133335 (recall@20); 0.274659481 (ndcg@10); 0.278696623 (ndcg@20)
+Prediction: 0.017840507; Fidelity: 0.026670268; Distinctness: 3.607644796; Alpha: -0.550387740
+Epoch: [8/450], Training Loss: 0.019561270
+Test Epoch 8: 0.177712376 (recall@10); 0.261705782 (recall@20); 0.276828812 (ndcg@10); 0.280973923 (ndcg@20)
+Prediction: 0.017771596; Fidelity: 0.019065494; Distinctness: 3.796990871; Alpha: -0.549477577
+Epoch: [9/450], Training Loss: 0.019575065
+Test Epoch 9: 0.177748507 (recall@10); 0.261499998 (recall@20); 0.276417431 (ndcg@10); 0.280750440 (ndcg@20)
+Prediction: 0.017785849; Fidelity: 0.020610008; Distinctness: 3.626578093; Alpha: -0.527710557
+Epoch: [10/450], Training Loss: 0.019593095
+Test Epoch 10: 0.177876270 (recall@10); 0.260878178 (recall@20); 0.277185541 (ndcg@10); 0.279990191 (ndcg@20)
+Prediction: 0.017772187; Fidelity: 0.024283664; Distinctness: 3.629787683; Alpha: -0.551721036
+Epoch: [11/450], Training Loss: 0.020042589
+Test Epoch 11: 0.176303746 (recall@10); 0.260643691 (recall@20); 0.278141435 (ndcg@10); 0.281713684 (ndcg@20)
+Prediction: 0.017766556; Fidelity: 0.021383446; Distinctness: 3.731063128; Alpha: -0.540831089
+Epoch: [12/450], Training Loss: 0.019548230
+Test Epoch 12: 0.177050244 (recall@10); 0.261254844 (recall@20); 0.277837769 (ndcg@10); 0.281451759 (ndcg@20)
+Prediction: 0.017754694; Fidelity: 0.020335257; Distinctness: 3.390431166; Alpha: -0.544024765
+Epoch: [13/450], Training Loss: 0.019516805
+Test Epoch 13: 0.176203113 (recall@10); 0.262114553 (recall@20); 0.280626549 (ndcg@10); 0.284252443 (ndcg@20)
+Prediction: 0.017751729; Fidelity: 0.020688731; Distinctness: 3.456271172; Alpha: -0.546358526
+Epoch: [14/450], Training Loss: 0.019491231
+Test Epoch 14: 0.176602288 (recall@10); 0.261075843 (recall@20); 0.279087927 (ndcg@10); 0.282427570 (ndcg@20)
+Prediction: 0.017775280; Fidelity: 0.021498403; Distinctness: 3.271350384; Alpha: -0.551047206
+Epoch: [15/450], Training Loss: 0.019455131
+Test Epoch 15: 0.178719314 (recall@10); 0.261048340 (recall@20); 0.281886616 (ndcg@10); 0.283307950 (ndcg@20)
+Prediction: 0.017721878; Fidelity: 0.018964723; Distinctness: 3.661163807; Alpha: -0.550368786
+Epoch: [16/450], Training Loss: 0.019446505
+Test Epoch 16: 0.177300360 (recall@10); 0.262035731 (recall@20); 0.283096919 (ndcg@10); 0.285915755 (ndcg@20)
+Prediction: 0.017743237; Fidelity: 0.018649407; Distinctness: 3.456474066; Alpha: -0.547986627
+Epoch: [17/450], Training Loss: 0.019483829
+Test Epoch 17: 0.175169627 (recall@10); 0.262000977 (recall@20); 0.280971424 (ndcg@10); 0.284461106 (ndcg@20)
+Prediction: 0.017756680; Fidelity: 0.020249197; Distinctness: 3.311563253; Alpha: -0.551312387
+Epoch: [18/450], Training Loss: 0.019431150
+Test Epoch 18: 0.178216603 (recall@10); 0.264314540 (recall@20); 0.282978736 (ndcg@10); 0.286233407 (ndcg@20)
+Prediction: 0.017703669; Fidelity: 0.017882425; Distinctness: 3.406335354; Alpha: -0.551083028
+Epoch: [19/450], Training Loss: 0.019461447
+Test Epoch 19: 0.177186929 (recall@10); 0.263494895 (recall@20); 0.282355050 (ndcg@10); 0.285396194 (ndcg@20)
+Prediction: 0.017758375; Fidelity: 0.018651124; Distinctness: 3.311486006; Alpha: -0.552006721
+Epoch: [20/450], Training Loss: 0.019424664
+Test Epoch 20: 0.178409392 (recall@10); 0.265669259 (recall@20); 0.282886702 (ndcg@10); 0.286269788 (ndcg@20)
+Prediction: 0.017695554; Fidelity: 0.017780174; Distinctness: 3.475853205; Alpha: -0.551376998
+Epoch: [21/450], Training Loss: 0.019491050
+Test Epoch 21: 0.177440759 (recall@10); 0.268923908 (recall@20); 0.285350727 (ndcg@10); 0.289674229 (ndcg@20)
+Prediction: 0.017665945; Fidelity: 0.017815616; Distinctness: 3.532051086; Alpha: -0.551534832
+Epoch: [22/450], Training Loss: 0.019347580
+Test Epoch 22: 0.179260032 (recall@10); 0.277679945 (recall@20); 0.288007934 (ndcg@10); 0.293361178 (ndcg@20)
+Prediction: 0.017671552; Fidelity: 0.017798165; Distinctness: 3.398332119; Alpha: -0.551919222
+Epoch: [23/450], Training Loss: 0.019347345
+Test Epoch 23: 0.181523644 (recall@10); 0.277492700 (recall@20); 0.289758580 (ndcg@10); 0.294012639 (ndcg@20)
+Prediction: 0.017673874; Fidelity: 0.018011445; Distinctness: 3.211103439; Alpha: -0.552262127
+Epoch: [24/450], Training Loss: 0.019363198
+Test Epoch 24: 0.192065713 (recall@10); 0.277207095 (recall@20); 0.295459176 (ndcg@10); 0.295639146 (ndcg@20)
+Prediction: 0.017684160; Fidelity: 0.017751493; Distinctness: 3.262185812; Alpha: -0.552574396
+Epoch: [25/450], Training Loss: 0.019297874
+Test Epoch 25: 0.193712973 (recall@10); 0.281231938 (recall@20); 0.298209528 (ndcg@10); 0.299745081 (ndcg@20)
+Prediction: 0.017597657; Fidelity: 0.017148675; Distinctness: 3.356894493; Alpha: -0.552299500
+Epoch: [26/450], Training Loss: 0.019424133
+Test Epoch 26: 0.192736309 (recall@10); 0.283438409 (recall@20); 0.301347467 (ndcg@10); 0.304496370 (ndcg@20)
+Prediction: 0.017592765; Fidelity: 0.017210605; Distinctness: 3.673095703; Alpha: -0.552061498
+Epoch: [27/450], Training Loss: 0.019366527
+Test Epoch 27: 0.193961959 (recall@10); 0.280816792 (recall@20); 0.304051375 (ndcg@10); 0.304289697 (ndcg@20)
+Prediction: 0.017574953; Fidelity: 0.017209250; Distinctness: 3.388026714; Alpha: -0.552262723
+Epoch: [28/450], Training Loss: 0.019320190
+Test Epoch 28: 0.197598246 (recall@10); 0.282229364 (recall@20); 0.306938796 (ndcg@10); 0.305745717 (ndcg@20)
+Prediction: 0.017530091; Fidelity: 0.016816488; Distinctness: 4.084473133; Alpha: -0.552749574
+Epoch: [29/450], Training Loss: 0.019513888
+Test Epoch 29: 0.195320733 (recall@10); 0.284875535 (recall@20); 0.306412218 (ndcg@10); 0.307493219 (ndcg@20)
+Prediction: 0.017563852; Fidelity: 0.017011249; Distinctness: 3.873992443; Alpha: -0.552618623
+Epoch: [30/450], Training Loss: 0.019304719
+Test Epoch 30: 0.197234149 (recall@10); 0.285496756 (recall@20); 0.307761186 (ndcg@10); 0.308394661 (ndcg@20)
+Prediction: 0.017537653; Fidelity: 0.016929919; Distinctness: 3.845510721; Alpha: -0.552726150
+Epoch: [31/450], Training Loss: 0.019321699
+Test Epoch 31: 0.199336943 (recall@10); 0.284594051 (recall@20); 0.309751254 (ndcg@10); 0.308652010 (ndcg@20)
+Prediction: 0.017503157; Fidelity: 0.016882204; Distinctness: 4.025110722; Alpha: -0.552783906
+Epoch: [32/450], Training Loss: 0.019299660
+Test Epoch 32: 0.196918640 (recall@10); 0.284284771 (recall@20); 0.308971752 (ndcg@10); 0.308176852 (ndcg@20)
+Prediction: 0.017522108; Fidelity: 0.016904429; Distinctness: 3.757049084; Alpha: -0.552781940
+Epoch: [33/450], Training Loss: 0.019271938
+Test Epoch 33: 0.201099769 (recall@10); 0.292012823 (recall@20); 0.310754429 (ndcg@10); 0.311858039 (ndcg@20)
+Prediction: 0.017493781; Fidelity: 0.016815197; Distinctness: 3.667646885; Alpha: -0.552775621
+Epoch: [34/450], Training Loss: 0.019259593
+Test Epoch 34: 0.199718818 (recall@10); 0.288619392 (recall@20); 0.311845217 (ndcg@10); 0.312039232 (ndcg@20)
+Prediction: 0.017520102; Fidelity: 0.016903529; Distinctness: 3.496257067; Alpha: -0.552784324
+Epoch: [35/450], Training Loss: 0.019264704
+Test Epoch 35: 0.199177516 (recall@10); 0.287174157 (recall@20); 0.309867051 (ndcg@10); 0.309731414 (ndcg@20)
+Prediction: 0.017529359; Fidelity: 0.016931221; Distinctness: 3.473453045; Alpha: -0.552730203
+Epoch: [36/450], Training Loss: 0.019254154
+Test Epoch 36: 0.200398067 (recall@10); 0.286958171 (recall@20); 0.312322110 (ndcg@10); 0.311632271 (ndcg@20)
+Prediction: 0.017491918; Fidelity: 0.016858755; Distinctness: 3.683461905; Alpha: -0.552778423
+Epoch: [37/450], Training Loss: 0.019223940
+Test Epoch 37: 0.203266003 (recall@10); 0.289809286 (recall@20); 0.315339681 (ndcg@10); 0.314349782 (ndcg@20)
+Prediction: 0.017498914; Fidelity: 0.016839422; Distinctness: 3.642886639; Alpha: -0.552779973
+Epoch: [38/450], Training Loss: 0.019223366
+Test Epoch 38: 0.206085262 (recall@10); 0.295334591 (recall@20); 0.320123349 (ndcg@10); 0.319440428 (ndcg@20)
+Prediction: 0.017431777; Fidelity: 0.016751880; Distinctness: 3.947843790; Alpha: -0.552783847
+Epoch: [39/450], Training Loss: 0.019207006
+Test Epoch 39: 0.204781348 (recall@10); 0.294886924 (recall@20); 0.321558051 (ndcg@10); 0.321395723 (ndcg@20)
+Prediction: 0.017435381; Fidelity: 0.016779566; Distinctness: 3.754149914; Alpha: -0.552785516
+Epoch: [40/450], Training Loss: 0.019203931
+Test Epoch 40: 0.206087165 (recall@10); 0.296232781 (recall@20); 0.322620224 (ndcg@10); 0.321443260 (ndcg@20)
+Prediction: 0.017457873; Fidelity: 0.016798396; Distinctness: 3.376665592; Alpha: -0.552784264
+Epoch: [41/450], Training Loss: 0.019295422
+Test Epoch 41: 0.200826838 (recall@10); 0.295329581 (recall@20); 0.315060591 (ndcg@10); 0.316897684 (ndcg@20)
+Prediction: 0.017534552; Fidelity: 0.016839275; Distinctness: 3.373816252; Alpha: -0.552783906
+Epoch: [42/450], Training Loss: 0.019199913
+Test Epoch 42: 0.207742955 (recall@10); 0.300941951 (recall@20); 0.322952564 (ndcg@10); 0.323954592 (ndcg@20)
+Prediction: 0.017409934; Fidelity: 0.016749557; Distinctness: 3.918854952; Alpha: -0.552786171
+Epoch: [43/450], Training Loss: 0.019159650
+Test Epoch 43: 0.207144485 (recall@10); 0.299936467 (recall@20); 0.323879321 (ndcg@10); 0.324159471 (ndcg@20)
+Prediction: 0.017432041; Fidelity: 0.016759282; Distinctness: 3.350142717; Alpha: -0.552379668
+Epoch: [44/450], Training Loss: 0.019115275
+Test Epoch 44: 0.212042512 (recall@10); 0.302997977 (recall@20); 0.325981590 (ndcg@10); 0.325349270 (ndcg@20)
+Prediction: 0.017391739; Fidelity: 0.016731301; Distinctness: 4.307239532; Alpha: -0.552783906
+Epoch: [45/450], Training Loss: 0.019144012
+Test Epoch 45: 0.209711928 (recall@10); 0.302173192 (recall@20); 0.328268212 (ndcg@10); 0.328862083 (ndcg@20)
+Prediction: 0.017367732; Fidelity: 0.016722152; Distinctness: 3.473688602; Alpha: -0.552784264
+Epoch: [46/450], Training Loss: 0.019123603
+Test Epoch 46: 0.211199857 (recall@10); 0.304919950 (recall@20); 0.326127307 (ndcg@10); 0.327809151 (ndcg@20)
+Prediction: 0.017342327; Fidelity: 0.016719216; Distinctness: 4.347197533; Alpha: -0.552785397
+Epoch: [47/450], Training Loss: 0.019096231
+Test Epoch 47: 0.211292598 (recall@10); 0.304897233 (recall@20); 0.328330994 (ndcg@10); 0.330099144 (ndcg@20)
+Prediction: 0.017366584; Fidelity: 0.016719075; Distinctness: 3.559324503; Alpha: -0.552781522
+Epoch: [48/450], Training Loss: 0.019082090
+Test Epoch 48: 0.208196198 (recall@10); 0.302189507 (recall@20); 0.322266167 (ndcg@10); 0.323591075 (ndcg@20)
+Prediction: 0.017527958; Fidelity: 0.016756099; Distinctness: 3.069045067; Alpha: -0.552785397
+Epoch: [49/450], Training Loss: 0.019044656
+Test Epoch 49: 0.210936121 (recall@10); 0.306511066 (recall@20); 0.329959762 (ndcg@10); 0.332368802 (ndcg@20)
+Prediction: 0.017309904; Fidelity: 0.016709900; Distinctness: 4.217258930; Alpha: -0.552786171
+Epoch: [50/450], Training Loss: 0.019052366
+Test Epoch 50: 0.212601646 (recall@10); 0.307198493 (recall@20); 0.329304072 (ndcg@10); 0.331620177 (ndcg@20)
+Prediction: 0.017323295; Fidelity: 0.016708558; Distinctness: 4.271787167; Alpha: -0.552782834
+Epoch: [51/450], Training Loss: 0.019017160
+Test Epoch 51: 0.213525968 (recall@10); 0.305930185 (recall@20); 0.333331061 (ndcg@10); 0.332323606 (ndcg@20)
+Prediction: 0.017304093; Fidelity: 0.016698500; Distinctness: 3.477430344; Alpha: -0.552786052
+Epoch: [52/450], Training Loss: 0.019037653
+Test Epoch 52: 0.218063637 (recall@10); 0.312468589 (recall@20); 0.336150196 (ndcg@10); 0.337868655 (ndcg@20)
+Prediction: 0.017279498; Fidelity: 0.016699515; Distinctness: 4.363897800; Alpha: -0.552786231
+Epoch: [53/450], Training Loss: 0.019005857
+Test Epoch 53: 0.217573075 (recall@10); 0.308673488 (recall@20); 0.334909541 (ndcg@10); 0.333651600 (ndcg@20)
+Prediction: 0.017314030; Fidelity: 0.016705193; Distinctness: 3.413069248; Alpha: -0.552785873
+Epoch: [54/450], Training Loss: 0.019022884
+Test Epoch 54: 0.217481208 (recall@10); 0.312641803 (recall@20); 0.337156707 (ndcg@10); 0.339162318 (ndcg@20)
+Prediction: 0.017240625; Fidelity: 0.016696066; Distinctness: 4.473295212; Alpha: -0.552786171
+Epoch: [55/450], Training Loss: 0.018976554
+Test Epoch 55: 0.215043005 (recall@10); 0.309067138 (recall@20); 0.333971877 (ndcg@10); 0.335496265 (ndcg@20)
+Prediction: 0.017346026; Fidelity: 0.016703093; Distinctness: 3.239393711; Alpha: -0.552675426
+Epoch: [56/450], Training Loss: 0.019015167
+Test Epoch 56: 0.217608529 (recall@10); 0.312139429 (recall@20); 0.334074156 (ndcg@10); 0.335573478 (ndcg@20)
+Prediction: 0.017324090; Fidelity: 0.016699571; Distinctness: 3.563095331; Alpha: -0.552786469
+Epoch: [57/450], Training Loss: 0.019025743
+Test Epoch 57: 0.219591611 (recall@10); 0.316104372 (recall@20); 0.338280981 (ndcg@10); 0.340437101 (ndcg@20)
+Prediction: 0.017234417; Fidelity: 0.016687466; Distinctness: 4.000165462; Alpha: -0.552784085
+Epoch: [58/450], Training Loss: 0.018969992
+Test Epoch 58: 0.219515151 (recall@10); 0.314116920 (recall@20); 0.338370153 (ndcg@10); 0.339572839 (ndcg@20)
+Prediction: 0.017231125; Fidelity: 0.016688962; Distinctness: 3.796741486; Alpha: -0.552786350
+Epoch: [59/450], Training Loss: 0.018919684
+Test Epoch 59: 0.219751138 (recall@10); 0.314060275 (recall@20); 0.339904405 (ndcg@10); 0.339417462 (ndcg@20)
+Prediction: 0.017250648; Fidelity: 0.016687514; Distinctness: 3.641117573; Alpha: -0.552775979
+Epoch: [60/450], Training Loss: 0.018923458
+Test Epoch 60: 0.221951102 (recall@10); 0.316449388 (recall@20); 0.344299809 (ndcg@10); 0.343618173 (ndcg@20)
+Prediction: 0.017217563; Fidelity: 0.016683003; Distinctness: 3.604114532; Alpha: -0.552786469
+Epoch: [61/450], Training Loss: 0.018897431
+Test Epoch 61: 0.222286283 (recall@10); 0.319958368 (recall@20); 0.343313513 (ndcg@10); 0.345644547 (ndcg@20)
+Prediction: 0.017210197; Fidelity: 0.016675927; Distinctness: 3.738332272; Alpha: -0.552786469
+Epoch: [62/450], Training Loss: 0.018864017
+Test Epoch 62: 0.222486708 (recall@10); 0.317761973 (recall@20); 0.346419762 (ndcg@10); 0.346535628 (ndcg@20)
+Prediction: 0.017186403; Fidelity: 0.016683644; Distinctness: 3.756881714; Alpha: -0.552778840
+Epoch: [63/450], Training Loss: 0.018901376
+Test Epoch 63: 0.225214224 (recall@10); 0.320311298 (recall@20); 0.344817477 (ndcg@10); 0.345019675 (ndcg@20)
+Prediction: 0.017183134; Fidelity: 0.016676223; Distinctness: 3.743085146; Alpha: -0.552785277
+Epoch: [64/450], Training Loss: 0.018846784
+Test Epoch 64: 0.224115102 (recall@10); 0.317548076 (recall@20); 0.345062343 (ndcg@10); 0.344618662 (ndcg@20)
+Prediction: 0.017200209; Fidelity: 0.016678320; Distinctness: 3.368497133; Alpha: -0.552786469
+Epoch: [65/450], Training Loss: 0.018823130
+Test Epoch 65: 0.223314794 (recall@10); 0.319131055 (recall@20); 0.344643545 (ndcg@10); 0.345525632 (ndcg@20)
+Prediction: 0.017193815; Fidelity: 0.016681792; Distinctness: 3.437316418; Alpha: -0.552786469
+Epoch: [66/450], Training Loss: 0.018829672
+Test Epoch 66: 0.227956685 (recall@10); 0.320253226 (recall@20); 0.348615825 (ndcg@10); 0.346668687 (ndcg@20)
+Prediction: 0.017149767; Fidelity: 0.016672608; Distinctness: 3.754128933; Alpha: -0.552782893
+Epoch: [67/450], Training Loss: 0.018826891
+Test Epoch 67: 0.229623165 (recall@10); 0.325507633 (recall@20); 0.349828531 (ndcg@10); 0.349776887 (ndcg@20)
+Prediction: 0.017142272; Fidelity: 0.016685585; Distinctness: 4.237969875; Alpha: -0.552784562
+Epoch: [68/450], Training Loss: 0.018796839
+Test Epoch 68: 0.230175337 (recall@10); 0.327615365 (recall@20); 0.351235938 (ndcg@10); 0.350914269 (ndcg@20)
+Prediction: 0.017113462; Fidelity: 0.016677789; Distinctness: 4.174817085; Alpha: -0.552786350
+Epoch: [69/450], Training Loss: 0.018822053
+Test Epoch 69: 0.222225999 (recall@10); 0.317061858 (recall@20); 0.346225037 (ndcg@10); 0.345358273 (ndcg@20)
+Prediction: 0.017189212; Fidelity: 0.016674902; Distinctness: 3.281692266; Alpha: -0.552786469
+Epoch: [70/450], Training Loss: 0.018807542
+Test Epoch 70: 0.229422456 (recall@10); 0.321480619 (recall@20); 0.352968464 (ndcg@10); 0.350077575 (ndcg@20)
+Prediction: 0.017144345; Fidelity: 0.016667355; Distinctness: 3.587224960; Alpha: -0.552784026
+Epoch: [71/450], Training Loss: 0.018711150
+Test Epoch 71: 0.226053647 (recall@10); 0.323824950 (recall@20); 0.350780411 (ndcg@10); 0.351136568 (ndcg@20)
+Prediction: 0.017167075; Fidelity: 0.016670762; Distinctness: 3.483727932; Alpha: -0.552785933
+Epoch: [72/450], Training Loss: 0.018715840
+Test Epoch 72: 0.231252803 (recall@10); 0.321752182 (recall@20); 0.353866997 (ndcg@10); 0.349766686 (ndcg@20)
+Prediction: 0.017144196; Fidelity: 0.016664810; Distinctness: 3.335341930; Alpha: -0.552786469
+Epoch: [73/450], Training Loss: 0.018731220
+Test Epoch 73: 0.233311592 (recall@10); 0.325347688 (recall@20); 0.355509343 (ndcg@10); 0.352453620 (ndcg@20)
+Prediction: 0.017101251; Fidelity: 0.016664589; Distinctness: 3.638357639; Alpha: -0.552786410
+Epoch: [74/450], Training Loss: 0.018729242
+Test Epoch 74: 0.234811161 (recall@10); 0.328031906 (recall@20); 0.359064868 (ndcg@10); 0.356048457 (ndcg@20)
+Prediction: 0.017060008; Fidelity: 0.016659299; Distinctness: 4.443085670; Alpha: -0.552786112
+Epoch: [75/450], Training Loss: 0.018726133
+Test Epoch 75: 0.232606668 (recall@10); 0.327007813 (recall@20); 0.354406113 (ndcg@10); 0.352759325 (ndcg@20)
+Prediction: 0.017075129; Fidelity: 0.016662687; Distinctness: 3.762204409; Alpha: -0.552762687
+Epoch: [76/450], Training Loss: 0.018684555
+Test Epoch 76: 0.234001588 (recall@10); 0.328237149 (recall@20); 0.358687721 (ndcg@10); 0.356281471 (ndcg@20)
+Prediction: 0.017041184; Fidelity: 0.016679946; Distinctness: 4.230189323; Alpha: -0.552784383
+Epoch: [77/450], Training Loss: 0.018678967
+Test Epoch 77: 0.231984834 (recall@10); 0.323296904 (recall@20); 0.354928362 (ndcg@10); 0.350638000 (ndcg@20)
+Prediction: 0.017078953; Fidelity: 0.016662169; Distinctness: 3.588662863; Alpha: -0.552785933
+Epoch: [78/450], Training Loss: 0.018666649
+Test Epoch 78: 0.235745373 (recall@10); 0.327845121 (recall@20); 0.358607171 (ndcg@10); 0.355259335 (ndcg@20)
+Prediction: 0.017063377; Fidelity: 0.016672725; Distinctness: 3.740613937; Alpha: -0.552785218
+Epoch: [79/450], Training Loss: 0.018668078
+Test Epoch 79: 0.237049275 (recall@10); 0.327590209 (recall@20); 0.359836984 (ndcg@10); 0.355445982 (ndcg@20)
+Prediction: 0.017052365; Fidelity: 0.016656997; Distinctness: 3.595221043; Alpha: -0.552786410
+Epoch: [80/450], Training Loss: 0.018656993
+Test Epoch 80: 0.232496984 (recall@10); 0.328233847 (recall@20); 0.359554717 (ndcg@10); 0.357701595 (ndcg@20)
+Prediction: 0.017033683; Fidelity: 0.016667487; Distinctness: 3.961176872; Alpha: -0.552786469
+Epoch: [81/450], Training Loss: 0.018645134
+Test Epoch 81: 0.236152650 (recall@10); 0.330718464 (recall@20); 0.357900034 (ndcg@10); 0.356521673 (ndcg@20)
+Prediction: 0.017061869; Fidelity: 0.016666178; Distinctness: 3.578624725; Alpha: -0.552786410
+Epoch: [82/450], Training Loss: 0.018589383
+Test Epoch 82: 0.236196731 (recall@10); 0.330039881 (recall@20); 0.361405547 (ndcg@10); 0.357838238 (ndcg@20)
+Prediction: 0.017024415; Fidelity: 0.016663725; Distinctness: 3.611530542; Alpha: -0.552786350
+Epoch: [83/450], Training Loss: 0.018639771
+Test Epoch 83: 0.235492571 (recall@10); 0.327314576 (recall@20); 0.360924445 (ndcg@10); 0.355502968 (ndcg@20)
+Prediction: 0.017010080; Fidelity: 0.016662730; Distinctness: 4.091832638; Alpha: -0.552786469
+Epoch: [84/450], Training Loss: 0.018621944
+Test Epoch 84: 0.238027053 (recall@10); 0.327227546 (recall@20); 0.363396632 (ndcg@10); 0.356444175 (ndcg@20)
+Prediction: 0.017060608; Fidelity: 0.016662786; Distinctness: 3.240321636; Alpha: -0.552786469
+Epoch: [85/450], Training Loss: 0.018595431
+Test Epoch 85: 0.238568262 (recall@10); 0.332504085 (recall@20); 0.362938774 (ndcg@10); 0.359817920 (ndcg@20)
+Prediction: 0.016999558; Fidelity: 0.016660104; Distinctness: 3.944439173; Alpha: -0.552786469
+Epoch: [86/450], Training Loss: 0.018568825
+Test Epoch 86: 0.233924510 (recall@10); 0.327472183 (recall@20); 0.357222897 (ndcg@10); 0.354707887 (ndcg@20)
+Prediction: 0.017051077; Fidelity: 0.016662098; Distinctness: 3.244692326; Alpha: -0.552786291
+Epoch: [87/450], Training Loss: 0.018575132
+Test Epoch 87: 0.238567098 (recall@10); 0.333961903 (recall@20); 0.362762026 (ndcg@10); 0.361062371 (ndcg@20)
+Prediction: 0.016979728; Fidelity: 0.016656686; Distinctness: 3.735672474; Alpha: -0.552786469
+Epoch: [88/450], Training Loss: 0.018545581
+Test Epoch 88: 0.240132044 (recall@10); 0.334932767 (recall@20); 0.363622821 (ndcg@10); 0.360977119 (ndcg@20)
+Prediction: 0.017023591; Fidelity: 0.016658915; Distinctness: 3.759459496; Alpha: -0.552786469
+Epoch: [89/450], Training Loss: 0.018536413
+Test Epoch 89: 0.238478968 (recall@10); 0.332533633 (recall@20); 0.366489087 (ndcg@10); 0.362886527 (ndcg@20)
+Prediction: 0.017010396; Fidelity: 0.016659159; Distinctness: 3.273717165; Alpha: -0.552786469
+Epoch: [90/450], Training Loss: 0.018578256
+Test Epoch 90: 0.241144028 (recall@10); 0.338068873 (recall@20); 0.368113499 (ndcg@10); 0.365268233 (ndcg@20)
+Prediction: 0.016963782; Fidelity: 0.016654434; Distinctness: 3.918093443; Alpha: -0.552786469
+Epoch: [91/450], Training Loss: 0.018557852
+Test Epoch 91: 0.238285028 (recall@10); 0.329432215 (recall@20); 0.365040771 (ndcg@10); 0.359631238 (ndcg@20)
+Prediction: 0.017026734; Fidelity: 0.016653754; Distinctness: 3.310216904; Alpha: -0.552784801
+Epoch: [92/450], Training Loss: 0.018504849
+Test Epoch 92: 0.240070304 (recall@10); 0.336632602 (recall@20); 0.366519726 (ndcg@10); 0.363995579 (ndcg@20)
+Prediction: 0.017002640; Fidelity: 0.016659595; Distinctness: 3.558098078; Alpha: -0.552786469
+Epoch: [93/450], Training Loss: 0.018510479
+Test Epoch 93: 0.243199423 (recall@10); 0.341203607 (recall@20); 0.370817828 (ndcg@10); 0.369355696 (ndcg@20)
+Prediction: 0.016919227; Fidelity: 0.016659243; Distinctness: 4.121187687; Alpha: -0.552786469
+Epoch: [94/450], Training Loss: 0.018526280
+Test Epoch 94: 0.241015638 (recall@10); 0.337837477 (recall@20); 0.369440659 (ndcg@10); 0.366596392 (ndcg@20)
+Prediction: 0.016918071; Fidelity: 0.016652558; Distinctness: 3.979564428; Alpha: -0.552786469
+Epoch: [95/450], Training Loss: 0.018516758
+Test Epoch 95: 0.240601553 (recall@10); 0.341737719 (recall@20); 0.368849675 (ndcg@10); 0.369053820 (ndcg@20)
+Prediction: 0.016930379; Fidelity: 0.016657384; Distinctness: 4.150300026; Alpha: -0.552786469
+Epoch: [96/450], Training Loss: 0.018497480
+Test Epoch 96: 0.237277906 (recall@10); 0.332198306 (recall@20); 0.364677984 (ndcg@10); 0.362155653 (ndcg@20)
+Prediction: 0.016978990; Fidelity: 0.016649678; Distinctness: 3.509783030; Alpha: -0.552786469
+Epoch: [97/450], Training Loss: 0.018460561
+Test Epoch 97: 0.242808062 (recall@10); 0.338654777 (recall@20); 0.370116726 (ndcg@10); 0.367260001 (ndcg@20)
+Prediction: 0.016931064; Fidelity: 0.016650401; Distinctness: 3.475431919; Alpha: -0.552786469
+Epoch: [98/450], Training Loss: 0.018449329
+Test Epoch 98: 0.245024505 (recall@10); 0.337418154 (recall@20); 0.373264865 (ndcg@10); 0.367573922 (ndcg@20)
+Prediction: 0.016923098; Fidelity: 0.016651917; Distinctness: 3.497307301; Alpha: -0.552786469
+Epoch: [99/450], Training Loss: 0.018437333
+Test Epoch 99: 0.244512680 (recall@10); 0.340130235 (recall@20); 0.373418702 (ndcg@10); 0.369713171 (ndcg@20)
+Prediction: 0.016929632; Fidelity: 0.016641218; Distinctness: 3.337328911; Alpha: -0.552785814
+Epoch: [100/450], Training Loss: 0.018433014
+Test Epoch 100: 0.248299029 (recall@10); 0.341318945 (recall@20); 0.377125944 (ndcg@10); 0.371461729 (ndcg@20)
+Prediction: 0.016883207; Fidelity: 0.016655376; Distinctness: 4.386332989; Alpha: -0.552786469
